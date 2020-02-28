@@ -1,1 +1,1 @@
-# A simple calculator App using REACT
+# A simple Workout-tracker App using REACT
